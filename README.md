@@ -1,0 +1,1 @@
+A Kotlin Gradle template for creating libraries targeting javascript. 
